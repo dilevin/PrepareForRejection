@@ -8,3 +8,10 @@ This python script sets up my standard set of files for working on research pape
   - A Google Jam Whiteboard
 2. A github repo entitled paper_{PROJECT_NAME} to store the paper latex. 
    The README.md will contain the link to the google folder. 
+
+## Installation
+
+## Running the script
+
+At the command line:
+```python start_project.py {PROJECT_NAME}```

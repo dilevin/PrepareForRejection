@@ -16,7 +16,8 @@ Prior to running this script for the first time you will need to engage in a sma
 1. Setup google drive access by following the instructions here: https://developers.google.com/drive/api/v3/quickstart/python
 2. (Sometimes) Install pip for python:
     ```sudo easy_install pip``` once python is installed
-     **Remember to copy credentials.json to the same directory as start_project.py**
+
+    **Remember to copy credentials.json to the same directory as start_project.py**
      
 3. Install the Google APIs:
     ```pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib```

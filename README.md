@@ -26,7 +26,7 @@ Prior to running this script for the first time you will need to engage in a sma
 
 4. Install PyGitHub:
 
-  ```pip install PyGithub```
+    ```pip install PyGithub```
   
 ## Running the script
 
